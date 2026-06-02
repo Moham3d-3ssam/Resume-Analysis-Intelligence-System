@@ -1,6 +1,6 @@
 # 🔬 Resume Analysis Intelligence System
 
-> An AI-powered Streamlit application that extracts structured insights from any PDF resume — category classification, job role recommendation, and candidate profile extraction in seconds.
+>  AI-powered Streamlit application that extracts structured insights from any PDF resume — category classification, job role recommendation, and candidate profile extraction in seconds.
 
 ---
 
